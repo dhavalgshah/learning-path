@@ -22,6 +22,7 @@ In the short term, I expect to familiarize with Golang and its ecosystem enough 
 
 Folder structure
 ----------------
+```
 .
 ├── packages/
 ├── excercises/
@@ -31,3 +32,4 @@ Folder structure
 ├── competitions/
 ├── resources/
 └── notes.org
+```
