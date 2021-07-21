@@ -5,7 +5,7 @@
 - Practicality : Practice makes a person perfect, otherwise I'll just procrastinate and would never learn.
 - Transperancy : This put pressure on me to stay on course, accept feedback, and act on it. Feedback is the most valuable ingredient of learning so I want as much as I can get.
 
-This is the place to put Practical projects, Data Structure &amp; Algorithm Excercises, Learning resources, notes, anything and everything in my journey to learn Golang and in essence software engineering.
+This is the place to put projects, data structure &amp; algorithm excercises, learning resources, notes, anything and everything in my journey to learn Golang and in essence software engineering.
 
 This will follow rules of #100DaysOfCode challenge but instead of Twitter, I'll post my updates on Gopher's Slack channel and maybe in Reddit.
 
