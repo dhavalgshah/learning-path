@@ -38,3 +38,13 @@
 ├── projects/
 └── capstone-projects/
 ```
+
+## Guidelines of the game
+
+- Keep pre-planning to the minimum
+- Don't Get Stuck, Ask for Help
+- SQ4R can work on Video as well
+- Learn by watching is not a thing
+- One tiny project every-day
+- One integration project every few days
+- One Capstone project every fortnight
