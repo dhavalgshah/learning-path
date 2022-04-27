@@ -1,35 +1,40 @@
 # learning-golang
 
 ## Goals for this repository are
+
 - Accountability : Keep me accountable to publish code everyday (small samples to large projects - anything),
 - Practicality : Practice makes a person perfect, otherwise I'll just procrastinate and would never learn.
 - Transperancy : This put pressure on me to stay on course, accept feedback, and act on it. Feedback is the most valuable ingredient of learning so I want as much as I can get.
 
-This is the place to put projects, data structure &amp; algorithm excercises, learning resources, notes, anything and everything in my journey to learn Golang and in essence software engineering.
+## How it works?
 
-This will follow rules of #100DaysOfCode challenge but instead of Twitter, I'll post my updates on Gopher's Slack channel and maybe in Reddit.
+1. Subject Issue: An umbrella issue to describe top-level subject, dump common
+   resources and link to other topic level notes/issues/projects.
+2. Topic Issue: Describe the specific topic, its learning resources, links to my notes and
+   hands-on projects.
+3. Lab Issue: Describes one hands-on project covering one topic. Useful for
+   learning by tinkering and getting tactical feedback. Practice hands-on labs
+   from Oreilly Kodakatas, Exercism, GoByExample, Advent of Code, and other tiny
+   projects here.
+4. Project Issue: Describes a larger project covering more than one topics
+   and/or subjects. However, to stay objective, each project must target specific work area with
+   not more than three topics/subjects covered. These helps in understanding integration obstacles, overlaps
+   between topics, and find knowledge gaps. Cover tiny projects from Katas,
+   #100DaysOfCode, #CloudResumeChallenge etc. here.
+5. Capstone Projects: These are wholesome real-life projects specifically build
+   to showcase skill-sets developed from learning and experience. Go bananas
+   here, but keep in mind that objective is to showcase overall skills to
+   satisfy a real-life problem statement.
 
-# Learning Goal
-In the short term, I expect to familiarize with Golang and its ecosystem enough to be able to code basic CLIs or relatively simple web services. As I progress, I aim to learn and practice design patterns, DSAs, and Go packages so that I can build a bit more real-life production system.
+## Folder structure
 
-# Structure of the repo
-1. Code samples & projects will live in folders
-2. Daily progress will be posted as umbrell issue with each task having a separate issue
-3. Package/project ideas will live under this umbrella issue (so I can get feedback and prioritise better)
-4. Issues can be a code-task (project/excercise/competition), learning-objective, or feedback
-5. Every code submission will be as PR (but no semver)
-6. Notes (emacs-org-mode) will be used globally and locally to accumulate learning resources, feedback, remarks, etc.
-
-Folder structure
-----------------
 ```
 .
-├── packages/
-├── excercises/
+├── notes/
+├── labs/
 │   ├── dsa/ (data structure & algorithms)
 │   ├── exercism/
 │   └── gobyexample/
-├── competitions/
-├── resources/
-└── notes.org
+├── projects/
+└── capstone-projects/
 ```
