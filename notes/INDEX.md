@@ -25,7 +25,14 @@ understand the industry conventions.
   - [ ] AWS
 - [ ] Automation
   - [ ] Scripting
+    - [ ] Bash
+    - [ ] Python
+    - [ ] Golang
   - [ ] Infrastructure as Code
+    - [ ] Ansible
+    - [ ] Terraform
+    - [ ] Pulumi
+    - [ ] Crossplane/Keptn
 - [ ] Containers
 - [ ] Container Orchastration
 - [ ] Monitoring (Observability)
