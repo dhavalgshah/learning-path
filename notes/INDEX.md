@@ -23,9 +23,10 @@ understand the industry conventions.
 - [ ] Cloud Providers
   - [ ] Azure
   - [ ] AWS
-- [ ] Scripting
+- [ ] Automation
+  - [ ] Scripting
+  - [ ] Infrastructure as Code
 - [ ] Containers
 - [ ] Container Orchastration
 - [ ] Monitoring (Observability)
 - [ ] Version Control
-- [ ] Infrastructure as Code
