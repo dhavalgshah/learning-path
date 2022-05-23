@@ -1,10 +1,23 @@
-# learning-golang
+# Learning Cloud Native
 
-## Goals for this repository are
+> Learning is never ending. But you have to start somewhere.
 
-- Accountability : Keep me accountable to publish code everyday (small samples to large projects - anything),
-- Practicality : Practice makes a person perfect, otherwise I'll just procrastinate and would never learn.
-- Transperancy : This put pressure on me to stay on course, accept feedback, and act on it. Feedback is the most valuable ingredient of learning so I want as much as I can get.
+## Skills to learn
+
+- [ ] Linux
+- [ ] Version Control
+- [ ] Networking & Security
+- [ ] CI/CD
+- [ ] Cloud Providers
+- [ ] Scripting
+- [ ] Infrastructure as Code
+- [ ] Containers
+- [ ] Container Orchastration
+- [ ] Monitoring (Observability)
+
+> Soft-skills is one of biggest thing I want to improve on. Few areas I want to
+> improve upon are attentive listening, written technical
+> communication, constructive feedback, expectation management, and time management.
 
 ## How it works?
 
