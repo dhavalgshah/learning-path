@@ -54,6 +54,8 @@
 
 ## Guidelines of the game
 
+- Learn enough to be practical
+- Mastery will come through practice
 - Keep pre-planning to the minimum
 - Don't Get Stuck, Ask for Help
 - SQ4R can work on Video as well
