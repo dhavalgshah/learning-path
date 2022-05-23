@@ -4,7 +4,7 @@
 naming which relates to my mental model untill I learn the specifics and
 understand the industry conventions.
 
-
+(In no particular order)
 
 - [ ] Linux
   - [ ] Linux Internals & bootstrap process
@@ -13,6 +13,7 @@ understand the industry conventions.
   - [ ] Package and Configuration Management
   - [ ] Bash, Python scripting and automation
   - [ ] Performance, Logging, Audit, Observability
+- [ ] Version Control
 - [ ] Networking & Security
   - [ ] OSI Layers (L1 to L3)
   - [ ] Software Defined Networking
@@ -36,4 +37,3 @@ understand the industry conventions.
 - [ ] Containers
 - [ ] Container Orchastration
 - [ ] Monitoring (Observability)
-- [ ] Version Control
