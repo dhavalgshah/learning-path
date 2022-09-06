@@ -11,8 +11,6 @@ understand the industry conventions.
   - [ ] LFS and storage management
   - [ ] Basics of POSIX
   - [ ] Package and Configuration Management
-  - [ ] Bash, Python scripting and automation
-  - [ ] Performance, Logging, Audit, Observability
 - [ ] Version Control
 - [ ] Networking & Security
   - [ ] OSI Layers (L1 to L3)
@@ -37,3 +35,4 @@ understand the industry conventions.
 - [ ] Containers
 - [ ] Container Orchastration
 - [ ] Monitoring (Observability)
+  - [ ] Performance, Logging, Audit, Observability

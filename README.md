@@ -16,8 +16,8 @@
 - [ ] Monitoring (Observability)
 
 > Soft-skills is one of biggest thing I want to improve on. Few areas I want to
-> improve upon are attentive listening, written technical
-> communication, constructive feedback, expectation management, and time management.
+> improve upon are attentive listening, technical writing,
+> constructive feedback, expectation management, and time management.
 
 ## How it works?
 
@@ -47,7 +47,7 @@
 ├── labs/
 │   ├── dsa/ (data structure & algorithms)
 │   ├── exercism/
-│   └── gobyexample/
+│   └── ...
 ├── projects/
 └── capstone-projects/
 ```
