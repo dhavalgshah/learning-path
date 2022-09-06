@@ -6,13 +6,16 @@
 
 - [ ] Linux
 - [ ] Version Control
-- [ ] Networking & Security
-- [ ] CI/CD
-- [ ] Cloud Providers
-- [ ] Scripting
-- [ ] Infrastructure as Code
+- [ ] Networking
 - [ ] Containers
 - [ ] Container Orchastration
+- [ ] Scripting
+- [ ] CI/CD
+- [ ] Cloud Providers
+- [ ] Infrastructure as Code
+- [ ] Security
+- [ ] Identity & Access Managment 
+- [ ] Governance
 - [ ] Monitoring (Observability)
 
 > Soft-skills is one of biggest thing I want to improve on. Few areas I want to

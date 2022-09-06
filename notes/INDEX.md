@@ -19,6 +19,14 @@ understand the industry conventions.
   - [ ] Encryption, Secrets, & Certificates
   - [ ] Zero Trust Model
 - [ ] CI/CD
+  - [ ] Pipeline Orchastration
+  - [ ] Artifact Caching & Storage
+  - [ ] Secrets Management & RBAC
+  - [ ] Gates & Approval Workflow
+  - [ ] Configuration Management
+  - [ ] Logging & Monitoring
+  - [ ] Dashboards/Reporting & VCS Integration
+  - [ ] Jenkins, Github Actions, Azure Pipelines, Codefresh, ArgoCD
 - [ ] Cloud Providers
   - [ ] Azure
   - [ ] AWS
@@ -34,5 +42,6 @@ understand the industry conventions.
     - [ ] Crossplane/Keptn
 - [ ] Containers
 - [ ] Container Orchastration
+- [ ] Identity and Access Management
 - [ ] Monitoring (Observability)
   - [ ] Performance, Logging, Audit, Observability
