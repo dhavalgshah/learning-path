@@ -1,0 +1,3 @@
+[submodule "labs/terraform-up-and-running-code"]
+	path = labs/terraform-up-and-running-code
+	url = git@github.com:brikis98/terraform-up-and-running-code.git
